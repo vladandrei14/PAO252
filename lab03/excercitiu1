@@ -1,0 +1,10 @@
+vlad.balauta@endava.com;
+
+Scrieti o aplicatie Java care:
+- contine un pachet <model> cu 2 clase (Produs si Shop)
+- clasa Produs va avea 2 field-uri: <nume> si <pret>
+- Shop-ul va avea un camp: array de Produse
+- creati un pachet <service> cu o clasa ShopService ce va avea ca membru un Shop
+- ShopService adauga Produse in array-ul de produse din Shop si va afisa in consola produsele
+
+

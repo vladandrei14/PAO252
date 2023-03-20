@@ -1,0 +1,14 @@
+1. Sa se creeze 2 pachete Java: <model> si <serviciu>
+2. Sa se creeze o clasa abstracta <Person> ce are un field privat <name>,
+o metoda abstracta isEmployed si un constructor cu parametri
+3. Sa se creeze o subclasa <Employee> ce are urmatoarele field-uri:
+annualSalary->double, employerName->String, startDate->String
+4. Sa se creeze o clasa PersonService ce are ca membru o lista de 10 persoane.
+5. PersonService va accepta in lista doar persoane si angajati diferiti.
+Prin "diferiti" se va intelege persoane cu nume diferite. NOTE: Overwrite equals();
+6. PersonService va avea o metoda care va afisa "pretty" lista de persoane.
+  (se vor afisa pt
+  angajati: <nume>: <annualSalary>@employerName since startDate e.g. Alex Popa: 10000@Endava since 01.01.2020)
+
+
+  Useful IntelliJ shortcut: Alt + Insert (for getters/setters generation, method overriding)

@@ -1,0 +1,12 @@
+1. Sa sa scrie o metoda fara parametri care afiseaza lungimea a 2 texte neluand in calcul spatiile: "Ana are mere" si "Barbu are pere"
+    NOTE: Trebuie sa fie un one-liner!!!
+2. Sa se scrie o metoda care verifica daca un numar este palindrom. Note: Folositi variabile de tip numeric numai la declarare.
+
+SHOCK! Nu o sa-ti vina sa crezi ce se intampla la laboratorul de PAO. Ghici ce studenti pot primi puncte in plus la laborator!
+a. Sa se scrie o clasa abstracta <Product> cu atributele: <id>, <name>, <price>
+b. Sa se scrie clasele ce mostenesc Product: <Vehicle> (cu atributele <brand> si <model>) si Book(cu atributul <numberOfPages>)
+c. Sa se scrie clasa <Car> ce mosteneste Vehicle si are un atributul de tipul Engine. Clasa Engine va avea atributele: power si numberOfCylinders.
+d. Sa se scrie o clasa de tip service (ShopService) ce adauga produse intr-un array de produse si afiseaza "prettified" un anumit produs dupa id
+    (daca nu exista in lista vom printa un text de tipul "Produsul cu id-ul <id> nu este pe stock!")
+e. Operatiile din ShopService vor fi apelate din linie de comanda folosind clasa Scanner. Nu uitati de comanda de iesire din command line.
+Note: Vom adauga in lista doar elemente de tip Car si Book!
