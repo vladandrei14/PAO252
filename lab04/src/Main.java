@@ -8,6 +8,6 @@ public class Main {
 
         // Compilation error because animal is a Animal type reference and Animal does not have an <canisa> atribute
         // check references.png
-        System.out.println(a.canisa);
+//        System.out.println(a.canisa);
     }
 }
