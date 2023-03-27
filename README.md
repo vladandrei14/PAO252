@@ -1,5 +1,7 @@
 ## Programare Avansata pe Obiecte
 
+### Situatie laborator: [link](https://docs.google.com/spreadsheets/d/1F5FtIO_qmhK-DsGn52NO35U5fAUuuScdgpaNlmDD2-w/edit?usp=sharing) 
+
 
 ### Cuprins
 1. [Project laborator](Programare%20avansata%20pe%20obiecte%20-%20proiect%202023.pdf) 

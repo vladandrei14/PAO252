@@ -1,0 +1,14 @@
+Excercitii
+
+1. Write a class that implements the CharSequence interface found in the java.lang package.
+    Your implementation should return the string backwards.
+    Select one of the sentences from internet to use as the data.
+    Write a small main method to test your class; make sure to call all four methods.
+
+    Note: The value will be an array of chars
+
+2. Add a readList method to ListOfNumbers.java.
+(Code here: https://docs.oracle.com/javase/tutorial/essential/exceptions/examples/ListOfNumbers.java )
+This method should read in int values from a file, print each value,
+and append them to the end of the vector.
+You should catch all appropriate errors. You will also need a text file containing numbers to read in.
