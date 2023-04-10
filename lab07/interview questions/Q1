@@ -1,0 +1,9 @@
+Which class would be best to use to read a binary file into a Java object?
+
+a. BufferedStream
+b. FileReader
+c. ObjectInputStream
+d. ObjectReader
+e. ObjectOutputStream
+f. ObjectWriter
+g. None of the above

@@ -1,0 +1,7 @@
+Which of the following are true statements about serialization in Java? (Choose all that apply.)
+
+a. All non-null instance members of the class must be serializable or marked transient.
+b. Serialization involves converting data into Java objects.
+c. Serializable is a marker interface.
+d. The class must extend the Serializable class.
+e. The class must implement the Serializable interface.

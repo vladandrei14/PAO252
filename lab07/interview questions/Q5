@@ -1,0 +1,7 @@
+Which of the following correctly create Path instances? (Choose all that apply.)
+
+a. new Path("jaguar.txt");
+b. Path.get("cats","lynx.txt");
+c. new java.io.File("tiger.txt").toPath();
+d. Paths.getPath("ocelot.txt");
+e. Path.of(Path.of(".").toUri());

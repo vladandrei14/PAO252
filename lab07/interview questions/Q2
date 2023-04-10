@@ -1,0 +1,8 @@
+Assuming that / is the root directory within the file system, which of the following are true statements? (Choose all that apply.)
+
+a. /home/parrot is an absolute path.
+b. /home/parrot is a directory.
+c. /home/parrot is a relative path.
+d. new File("/home") will throw an exception if /home does not exist.
+e. new File("/home").delete() will throw an exception if /home does not exist.
+f. A Reader offers character encoding, making it more useful when working with String data than an InputStream.

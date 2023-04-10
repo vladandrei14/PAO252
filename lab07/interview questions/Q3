@@ -1,0 +1,14 @@
+For which values of path sent to this method would it be possible for the following code to output Success? (Choose all that apply.)
+
+public void removeBadFile(Path path) {
+   if(Files.isDirectory(path))
+     System.out.println(Files.deleteIfExists(path)
+        ? "Success": "Try Again");
+}
+
+a. path refers to a regular file in the file system.
+b. path refers to a symbolic link in the file system.
+c. path refers to an empty directory in the file system.
+d. path refers to a directory with content in the file system.
+e. path does not refer to a record that exists within the file system.
+f. The code does not compile.

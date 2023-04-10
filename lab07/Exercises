@@ -1,0 +1,4 @@
+1. Write a small application that counts the number of times a particular character appears in a file.
+The character will be specified at the command line and the result will NOT be printed but written into a file.
+Note: Use https://www.lipsum.com/ to generate the input text and create the file in your HOME directory (For Windows e.g C:\Users\<home_directory>)
+
