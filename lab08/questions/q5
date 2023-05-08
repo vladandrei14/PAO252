@@ -1,0 +1,11 @@
+Your application needs to load a set of key value pairs from a database table
+which never changes. Multiple threads need to access this information
+but none of them changes it.
+Which class would be the most appropriate to store such data if the values
+need not be kept in a sorted fashion?
+
+a. Hashtable
+b. HashMap
+c. List
+d. Set
+e. TreeMap

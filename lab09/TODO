@@ -1,0 +1,8 @@
+TODO LAB09
+
+0. JDBC Drivers
+1. Java JDBC API (DriverManager, Connection, Statement, ResultSet)
+2. JDBC URL Format
+3. CRUD operations and Statement, PreparedStatement, CallableStatement
+4. execute(), executeQuery(), executeUpdate() + binding parameters
+5. ResultSet mapping

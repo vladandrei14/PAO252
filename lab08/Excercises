@@ -1,0 +1,15 @@
+1. Write the Fibonacci sequence for 100 iterations using a Map implementation.
+Display the map values in reverse order. The key could be the hash value e.g
+af58 -> 1
+43d2 -> 1
+7ae2 -> 2
+234c -> 3
+87ac -> 5
+3cea -> 8
+13cc -> 13
+...
+
+2. Realizati un program care poate face urmatorele operatii pe multimi:
+reuniuni, diferenta si intersectie.
+ (Cate o metoda pt fiecare operatie.
+ Multimile pot fi generate random, nu citite de la tastatura)

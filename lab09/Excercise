@@ -1,0 +1,14 @@
+https://dev.mysql.com/downloads/
+Windows: https://dev.mysql.com/downloads/installer/
+Minimal requirement Installation: Select SqlServer + Connector/J + MySQL Workbench
+
+1. Setup MySQL Server
+2. Create database schema and its tables (check ddl directory for queries)
+3. Create a Java application with will:
+    a. Connect to a MySQL schema
+    b. INSERT a new employee and get it assigned to the "Employee AI" project
+    c. UPDATE department of Maria to "IT"
+    d. DELETE project "Employee manager app"
+    c. SELECT all employees that work on project "Instant payment app"
+
+Note: Each CRUD operation will be a method and the parameters will be used in the PreparedStatements

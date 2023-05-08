@@ -1,0 +1,7 @@
+Which of these methods are defined in the Map interface?
+
+a. contains(Object o)
+b. addAll(Collection c)
+c. remove(Object o)
+d. values( )
+e. toArray( )

@@ -1,0 +1,6 @@
+Which of the following are benefits of ArrayList over an array?
+
+a. You do not have to worry about the size of the ArrayList while appending elements.
+b. It consumes less memory space.
+c. You do not have to worry about thread safety.
+d. It allows you to write type safe code.

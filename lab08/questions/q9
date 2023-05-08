@@ -1,0 +1,8 @@
+Which of these statements concerning the use of collection interfaces
+of the Java standard class library are true?
+
+a. None of the standard collection classes are thread safe.
+b. HashSet implements SortedSet.
+c. Collection classes implementing List cannot have duplicate elements.
+d. ArrayList can only accommodate a fixed number of elements.
+e. Some operations may throw an UnsupportedOperationException.

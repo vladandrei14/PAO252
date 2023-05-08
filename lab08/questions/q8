@@ -1,0 +1,17 @@
+What will the following code print when compiled and run?
+
+import java.util.*;
+public class TestClass {
+    public static void main(String[] args) throws Exception {
+        List  al = new ArrayList(); //1
+        al.add(111); //2
+        System.out.println(al.get(al.size()));  //3
+     }
+}
+
+
+a. It will not compile.
+b. It will throw an exception at run time because of line //1
+c. It will throw an exception at run time because of line //2
+d. It will throw an exception at run time because of line //3
+e. null
