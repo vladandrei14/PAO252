@@ -1,0 +1,8 @@
+Lab 10 Concurrency
+
+1. Creare thread-uri noi (Runnable vs Thread)
+2. main thread, start() vs run()
+3. access concurent la resurse (race conditions)
+4. synchronized, sleep, join
+5. Atomic classes, thread safe lists
+6. ExecutorService

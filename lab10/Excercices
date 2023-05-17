@@ -1,0 +1,9 @@
+1. Create a Java application which will:
+    - Connect to a Database Server using the JDBC API: use lab09/ddl/pao252_employees.sql
+        to create the necessary table
+    - Create 2 threads that will insert data in the DB.
+        The id will be a counter that both threads need to increment concurrently
+            and the other fields could be random strings.
+        Make use of ExecutorService to invoke the threads
+    - Create a 3rd thread (or use the main one) to retrieve all entries in the DB
+        after the previous threads ran
